@@ -1,0 +1,14 @@
+{
+  "name": "Holohouse",
+  "description": "Prototype implementation of the holohouse mutual currency for house services",
+  "authors": [
+    {
+      "identifier": "Julio Monteiro <juliolrmonteiro@gmail.com>",
+      "public_key_source": "",
+      "signature": ""
+    }
+  ],
+  "version": "0.1.0",
+  "dht": {},
+  "properties": null
+}
